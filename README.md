@@ -55,6 +55,7 @@ Momenteel zijn alleen de respectievelijke artikel-paginas, en pagina 101 toegank
 - [Typer](https://typer.tiangolo.com/)
 - [Rich](https://rich.readthedocs.io/en/stable/#) (bijgeleverd met Typer)
 - [Beautiful Soup](https://pypi.org/project/beautifulsoup4/)
+- [Requests](https://requests.readthedocs.io/)
 
 ## ⚠️ Disclaimer
 Deze software is ontworpen als een hobbyproject en is niet bedoeld voor commerciële doeleinden. Dit project heeft tevens geen affiliatie met de NOS. 
