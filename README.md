@@ -26,7 +26,6 @@ python teletekst.py <paginanummer>
 ```
 
 ### Toevoegen aan Environment Variables (Windows)
-
 Om Teletekst gemakkelijk vanuit elke directory in de terminal te kunnen gebruiken, kun je de map waarin het script zich bevindt toevoegen aan jouw Environment Variables. Want om nu steeds terug te navigeren naar de bestandslocatie van `teletekst.py` verslaat een beetje het idee van '**snel** actueel nieuws bekijken'.
 
 Hoe je bij je Environment Variables navigeert verschilt per Windows release. Als je Windows 11 gebruikt kan je de instructies vanaf stap 1 volgen. Als je een oudere versie van Windows kan je de gids volgen vanaf stap 4, nadat je bij de Environment Variables bent gekomen.
@@ -36,7 +35,7 @@ Hoe je bij je Environment Variables navigeert verschilt per Windows release. Als
 3. Klik op het kopje "Advanced" in de "System Properties" window. Klik vervolgens op de "Environment Variables" knop.
 4. Nu komt het "Environment Variables" tabblad voor tevoorschijn. Onder het kopje "System Variables" navigeer je naar "Path".
 5. Selecteer "Path" en klik vervolgens op de "Edit" knop. 
-6. Klik op "New" en plak hier de locatie van de `\teketekst` map. (inclusief de naam van de map zelf)
+6. Klik op "New" en plak hier de locatie van de map waarin `teletekst.py` is opgeslagen.
 7. Klik op "Ok". Klik vervolgens ook op "Ok" in de 'Environment Variables" en de "System Properties" windows.
 
 Nu kan je het script laten runnen vanuit elke locatie in je terminal, door simpelweg een het volgende commando te gebruiken:
