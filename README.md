@@ -47,7 +47,7 @@ En als je wilt navigeren naar een artikel:
 teletekst <paginanummer>
 ```
 
-## 🚧 Beperkingen
+## 🚧 Limitaties
 Momenteel zijn alleen de respectievelijke artikel-paginas, en pagina 101 toegankelijk via deze tool. In de toekomst hoop ik een groter deel van de paginas toegankelijk te maken.
 
 ## ⚙️ Dependencies
