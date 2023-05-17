@@ -48,7 +48,12 @@ teletekst <paginanummer>
 ```
 
 ## 🚧 Beperkingen
-Momenteel zijn alleen de respectievelijke artikel-paginas, en pagina 101 toegankelijk via deze tool. In de toekomst hoop ik een groter deel van de paginas toegankelijk te maken.
+Op dit moment kan de tool alleen de volgende pagina's uitlezen:
+- Pagina 100
+- Pagina 101
+- De bijbehorende pagina's van de headlines die te vinden zijn op pagina 100 en 101.
+
+Let op dat dit betekent dat de tool momenteel niet in staat is om andere pagina's te lezen dan deze specifieke pagina's en hun bijbehorende headlines. Houd er daarom rekening mee dat de app beperkt is in zijn functionaliteit en niet geschikt is voor het uitlezen van andere pagina's op NOS Teletekst.
 
 ## ⚙️ Dependencies
 - [Typer](https://typer.tiangolo.com/)
@@ -56,5 +61,5 @@ Momenteel zijn alleen de respectievelijke artikel-paginas, en pagina 101 toegank
 - [Beautiful Soup](https://pypi.org/project/beautifulsoup4/)
 - [Requests](https://requests.readthedocs.io/)
 
-## ⚠️ Disclaimer
-Deze software is ontworpen als een hobbyproject en is niet bedoeld voor commerciële doeleinden. Dit project heeft tevens geen affiliatie met de NOS. 
+## 📄 Disclaimer
+Deze software is ontworpen als een hobbyproject en is niet bedoeld voor commerciële doeleinden. Dit project heeft geen affiliatie met de NOS. 
