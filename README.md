@@ -6,14 +6,14 @@ Deze tool is ontworpen om het mogelijk te maken actueel nieuws snel te bekijken 
 ## 🔨 Installatie
 Na het clonen of installeren van de repository moeten de benodigde dependencies worden geïnstalleerd. Dit kan worden gedaan via [pip](https://pypi.org/project/pip/). Voer het volgende commando om alle requirements voor dit project te installeren:
 
-```
+```bash
 pip install typer==0.7.0 requests==2.28.2 rich==12.6.0 bs4==0.0.1 beautifulsoup4==4.11.2 DateTime==5.0
 ```
 
 ## 📖 Gebruik
 Om Teletekst te gebruiken, open je de terminal en navigeer je naar de locatie waar het script is opgeslagen. Voer vervolgens het volgende commando uit:
 
-```
+```bash
 python teletekst.py
 ```
 
@@ -21,7 +21,7 @@ Na het uitvoeren van deze commando wordt de inhoud van [NOS Teletekst pagina 101
 
 Op basis van de paginanummers naast de kopjes kun je navigeren. Dit doe je door de paginanummer van het gewenste artikel mee te geven als argument:
 
-```
+```bash
 python teletekst.py paginanummer
 ```
 
@@ -39,11 +39,11 @@ Hoe je navigeert in je Environment Variables navigeert verschilt per Windows rel
 7. Klik op **Ok**. Klik vervolgens wederom op **Ok** in de *Environment Variables* en de *System Properties* windows.
 
 Het script is nu globaal toegankelijk! Je kan nu vanuit elke directory `teletekst` uitvoeren met het volgende commando:
-```
+```bash
 teletekst
 ```
 En als je wilt navigeren naar een artikel:
-```
+```bash
 teletekst paginanummer
 ```
 
